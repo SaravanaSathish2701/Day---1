@@ -1,0 +1,12 @@
+1. HTTP1.1:
+     HTTP1.1  is developed by Timothy Berners LEE in 1989 as a communication standard for the WWW, HTTP is a top level 
+application protocol that exchanges information between a client computer and a local or remote web server.
+
+HTTP/2:
+    HTTP/2 began as a SPDY protocol , developed primarily at Google with the intention of reducing web page load latency 
+by using techniques such as compression , multiplexing and priotization. This protocol served as a template for HTTP/2 when 
+the Hypertext Transfer Protocol working group.
+
+2. Objects and its internal representation:
+     Objects can be defined as an unordered collecton of related data of primitive or reference types in the form of 
+"key : value" pairs. Objects have an internal property known as Prototype.
